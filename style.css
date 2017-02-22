@@ -1,0 +1,52 @@
+.ui.borderless.topmenu.menu {
+
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.mid.sec.menu{
+  font-size: 15px;
+}
+
+.ui.borderless.mid.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.grad-background {
+  background: url('https://www.movado.com/on/demandware.static/-/Sites-MovadoUS-Library/default/dw97866596/content-assets/home%20page/021517-1600x762_option2.jpg') no-repeat center center fixed;
+  height: 500px;
+  color: white;
+}
+
+.footer-background {
+  padding-top: 150px;
+  background-color: white;
+  color: white;
+
+}
+p5{
+  font-size: 15px;
+  text-align: center;
+}
+p {
+  padding: 5px;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+p2{
+  text-align: center;
+  color: black;
+  font-size: 50px;
+}
+
+p3 {
+  font-size: 20px;
+  color:black;
+  text-align: center;
+}
+body {
+  font-family: Futura, helvetica, arial, sans-serif;
+}
